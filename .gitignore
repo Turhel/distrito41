@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+data/warera/
+swagger-ui-init.tmp.js
+reader-desktop.png
+reader-mobile.png

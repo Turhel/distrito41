@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Distrito 41 · Caso 001</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="vendor/page-flip.browser.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="toolbar">
+    <a class="brand" href="/">D<span>41</span><small>ARQUIVO DE CRÔNICAS</small></a>
+    <div class="tools">
+      <button id="contents" aria-expanded="false" aria-controls="chapter-panel">Índice</button>
+      <button id="smaller" aria-label="Diminuir fonte">A−</button>
+      <button id="larger" aria-label="Aumentar fonte">A+</button>
+      <button id="theme" aria-label="Alternar modo noturno">Lua</button>
+      <button id="mode">Leitura contínua</button>
+    </div>
+  </header>
+  <aside id="chapter-panel" hidden>
+    <div class="panel-heading"><span>CASO 001</span><button id="close-panel" aria-label="Fechar índice">×</button></div>
+    <h2>Índice</h2><nav id="chapters" aria-label="Capítulos"></nav>
+    <p>Uma guerra. Sete capítulos.<br>Até onde a memória alcança.</p>
+  </aside>
+  <main>
+    <section id="stage" aria-label="Livro"><div id="book"></div></section>
+    <article id="continuous" hidden></article>
+    <p id="error" role="alert" hidden></p>
+  </main>
+  <footer>
+    <button id="previous" aria-label="Página anterior">←</button>
+    <div><span id="position" aria-live="polite">Abrindo…</span><div class="track"><div id="progress"></div></div></div>
+    <button id="next" aria-label="Próxima página">→</button>
+  </footer>
+  <div id="measurement" aria-hidden="true"></div>
+</body>
+</html>
