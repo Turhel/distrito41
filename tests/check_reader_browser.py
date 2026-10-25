@@ -12,7 +12,16 @@ with sync_playwright() as p:
     errors = []
     page.on('pageerror', lambda error: errors.append(str(error)))
     page.goto(URL)
-    page.wait_for_function('flip !== null && pages.length > 7')
+    if not page.request.get(URL + '/book.json').json():
+        page.locator('#error').wait_for(state='visible')
+        assert 'em preparação' in page.locator('#error').inner_text()
+        assert page.locator('#stage').is_hidden()
+        assert page.locator('#next').is_disabled()
+        assert not errors, errors
+        browser.close()
+        print('Leitor sem manuscrito: estado de preparação verificado.')
+        raise SystemExit(0)
+    page.wait_for_function('flip !== null && pages.length > 1')
     def verify_text():
         data = page.evaluate('''() => ({
           expected: chapters.map(chapter => [chapter.title, ...chapter.lines.filter(line=>line.trim())].join(' ')).join(' '),
@@ -29,17 +38,18 @@ with sync_playwright() as p:
     page.wait_for_function('flip.getCurrentPageIndex() > 0')
     page.wait_for_timeout(800)
     page.locator('#contents').click()
-    page.locator('#chapters button').nth(4).click()
-    page.wait_for_function('pages[flip.getCurrentPageIndex()].chapter === 4')
+    chapter_index = min(4, page.locator('#chapters button').count() - 1)
+    page.locator('#chapters button').nth(chapter_index).click()
+    page.wait_for_function('index => pages[flip.getCurrentPageIndex()].chapter === index', arg=chapter_index)
     page.locator('#larger').click()
     verify_text()
     page.reload()
-    page.wait_for_function('flip !== null && pages[flip.getCurrentPageIndex()].chapter === 4')
+    page.wait_for_function('index => flip !== null && pages[flip.getCurrentPageIndex()].chapter === index', arg=chapter_index)
     page.locator('#theme').click()
     assert 'night' in page.locator('body').get_attribute('class')
     page.locator('#mode').click()
     assert page.locator('#continuous').is_visible()
-    assert page.locator('#continuous section').count() == 7
+    assert page.locator('#continuous section').count() == page.locator('#chapters button').count()
     page.locator('#mode').click()
     page.screenshot(path='reader-desktop.png')
     page.set_viewport_size({'width': 390, 'height': 844})

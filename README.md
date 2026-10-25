@@ -1,13 +1,11 @@
-# distrito41
+# Distrito 41
 
-Crônicas do War Era e construção de mundo do Distrito 41.
+Investigações de Harry Du Bois num noir policial de sarjeta. Reinício editorial em 24/10/2026.
 
-As [notas de planejamento do Caso 001](docs/planejamento-caso-001.md) reúnem ideias para a continuação, pendências de continuidade e o rascunho provisório do capítulo VIII.
+O [planejamento atual](docs/planejamento/novo-distrito41.md) reúne propostas e decisões pendentes. O [Caso 001 — O homem que voltava para casa](main/casos/01-o-homem-que-voltava-para-casa.md) tem uma abertura em rascunho. [Notas do caso, com spoilers](docs/planejamento/caso-001.md).
 
-Para ler como ebook, dê dois cliques em **ler-caso-001.cmd** ou execute `python scripts/read_book.py`. O [leitor local](reader/README.md) tem páginas animadas, índice, modo noturno e ajuste de fonte.
+Para abrir o leitor, execute `python scripts/read_book.py` ou dê dois cliques em **ler-distrito41.cmd**. Endereço: http://127.0.0.1:8041. O atalho antigo `ler-caso-001.cmd` também funciona. Veja [as instruções](reader/README.md).
 
-Para recuperar fontes pela API pública, consulte [o guia de coleta](docs/api/coleta.md).
+O projeto anterior foi preservado em [descartados/2026-10-24](descartados/2026-10-24/README.md). As [crônicas antigas](docs/antigo/) continuam como referência de voz.
 
-A [cronologia de 14 de agosto a 26 de setembro de 2026](docs/cronologia/2026-08-14-a-2026-09-26.md) reúne os marcos e registros para a continuação do livro.
-
-O [Caso 001](main/caso%20001.md) está organizado em sete arquivos de capítulos, com índice na ordem de leitura.
+Ferramentas preservadas: [dados de planejamento](docs/ferramentas/dados.md) e [coleta pública read-only](docs/api/coleta.md). A chave e os dados brutos não são versionados.

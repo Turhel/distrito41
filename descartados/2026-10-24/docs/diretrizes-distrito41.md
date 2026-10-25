@@ -60,7 +60,7 @@ Segundo o autor, esses modos correspondem à distribuição das skills, não a u
 
 Harry entrou em warmode em **14/08/2026** e voltou ao ecomode em **21/08/2026**. A mudança foi uma decisão de financiamento da guerra: produzir renda nas empresas e doar ao Brasil para contratar mercenários rendia mais dano por moeda do que continuar comprando equipamento para lutar pessoalmente.
 
-Comparação fornecida pelo autor: gastou aproximadamente **2.000 moedas em equipamentos para causar 1 milhão de dano**, enquanto aproximadamente **200 moedas contratavam mercenários para a mesma quantidade de dano**. Nessa comparação, o custo direto era cerca de dez vezes maior. São valores relatados para aquela experiência e condições daquele período, não uma cotação universal ou atual de mercenários.
+Comparação fornecida pelo autor: gastou aproximadamente **2.000 moedas do jogo em equipamentos para causar 1,5 milhão de dano (correção de 30/09)**, enquanto aproximadamente **200 moedas contratavam mercenários para 1 milhão de dano**. Normalizando o dano, o custo pessoal era aproximadamente 6,7 vezes o mercenário. O autor chamou a moeda de “btc no jogo”; não interpretar como Bitcoin real. São valores relatados para aquela experiência e condições daquele período, não uma cotação universal ou atual de mercenários.
 
 Na narrativa, a saída do front pode preservar cansaço e perdas materiais, mas precisa incluir essa conclusão econômica: Harry continua contribuindo para a guerra por produção, doações e financiamento. Não descrever o retorno ao ecomode como abandono do esforço brasileiro nem como incapacidade absoluta de atacar.
 
@@ -71,6 +71,12 @@ Segundo o autor, o comprimido dá **8 horas de bônus de 60% no dano**, seguidas
 A prática era tirar o equipamento bom e equipar a faca para evitar atacar por engano e desperdiçar peças. Na adaptação, o almoxarifado recolhe o material e entrega uma faca. A deterioração fisiológica é ficcionalização dessa mecânica. A primeira pílula não precisa ter seu horário exato inventado: estabelecer esse ponto ao conferir os horários das cenas.
 
 ## Acontecimentos e cenas já indicados
+
+**CDR — esclarecimento do autor:** é seu partido político, do qual Harry é um dos conselheiros, não o líder. Não é órgão policial ou agência de investigação. A atuação ficcional de detetive precisa de construção própria, independente do cargo partidário. Nome completo e data de ingresso não foram informados; referências antigas ao PRB não devem ser substituídas retroativamente sem conferir o período.
+
+**Natureza do Banco Central — relato de 30/09:** MU criada em 10/09 pelo ex-presidente RafaelKstro, inspirada num “banco” da Holanda no jogo. Reúne jogadores em ecomode para se ajudarem a crescer economicamente e doarem ao Brasil. Na adaptação, preservar essa cooperação; não transformar o nome em prova de uma instituição monetária estatal, acesso privilegiado a contas ou trama financeira. O nome da organização holandesa não foi informado.
+
+- **10/09 — esclarecimento do autor em 30/09:** Harry saiu da Arcanjos e entrou na MU do Banco Central para ajudar o Brasil financeiramente. Data testemunhada, sem horário ou evento público de transferência conferido. É distinta da mudança de skills de 21/08 e da nomeação para o MRE de 02/09. Pertencer à MU não prova emprego no banco, cargo executivo, controle do tesouro ou acesso a contas de terceiros. Essas funções não devem ser presumidas na adaptação policial.
 
 **Preparação, voo e quartel-general — revisão de 27/09:** na experiência do autor houve dois ataques pequenos antes de receber a orientação de esperar até as 11h, horário de abertura do quartel-general da Arcanjos; depois ele esperou e atacou no horário autorizado. O autor aprovou uma licença narrativa que não reproduz esses dois ataques: saída de Brasília às 9h em avião de carga, chegada a Belém perto das 11h e combate por volta do meio-dia. As sedes da CDR e da Arcanjos ficam em Brasília. Caminhões fazem apenas os trajetos entre sede, campo de aviação e concentração em Belém. Os tanques seguem em cargueiros pesados. O III trata da distribuição, manutenção e confirmação da posição depois da abertura do quartel-general; seu título passa a “Depois das Onze”. O primeiro disparo narrado permanece no IV. Esses horários pessoais são adaptação aprovada, não timestamps da API.
 

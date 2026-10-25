@@ -6,9 +6,60 @@ O [rascunho de VIII — O Mapa Não Cabe](rascunhos/08-o-mapa-nao-cabe.md) está
 
 ## Direção para o arco
 
-### Terceiro livro: a página vinte e seis e a despedida
+### Decisões atuais — 30/09/2026
 
-Ideia do autor para o encerramento do **terceiro livro**, registrada em 27/09/2026. Reservar para o fechamento maior do projeto; não confundir com a volta ao ecomode que encerra a primeira fase de combate.
+**Banco Central:** o autor esclareceu que RafaelKstro criou a MU em 10/09, inspirado num “banco” da Holanda. Harry entrou nesse dia para participar da ajuda mútua entre jogadores em ecomode, do crescimento econômico e das doações ao Brasil. Usar como expressão da organização coletiva; não inventar funções bancárias ou converter a unidade em mecanismo para solucionar o crime.
+
+- **Um único romance longo**, dividido em capítulos. A antiga proposta de três livros foi abandonada. Não há meta obrigatória de páginas; a possibilidade de grande extensão não exige alongar cenas ou retardar o caso.
+- **Investigação local minuciosa e personagens competentes.** Policiais, familiares e moradores não serão reduzidos à ignorância para destacar Harry. O desaparecimento resistiu a buscas sérias por circunstâncias demonstráveis. Harry acrescenta trabalho, acesso ou informação; não chega para sugerir uma providência óbvia que ninguém tomou.
+- Planejar a verdade do caso e as buscas anteriores antes de escrever as pistas. A solução ainda não foi escolhida ou sorteada.
+- Pesquisa inicial e método de planejamento: [dossiê da investigação](planejamento/investigacao-caso-001.md). Casos reais fornecem problemas de conhecimento e de busca, não um enredo a transplantar.
+
+### Nova direção policial — proposta do autor em 30/09/2026
+
+**Integração da vida pública, aprovada em 30/09:** a investigação ocupa o centro; acontecimentos da guerra entram conforme afetem o caso e as relações. A nomeação de Harry como ministro pode coexistir com a investigação, sem exigir um arco diplomático independente. O humor perde espaço gradualmente após a semana de combate, preservando a voz do personagem e momentos de afeto.
+
+**Comemoração e descoberta:** manter a festa de 25/09 com sua essência de amizade, alegria e celebração das 1.000 horas de call. O autor esclareceu que o mandato termina em **30/09**, não em 25/09; escolheram a sexta-feira, dia 25, porque todos podiam participar. É um relato do autor, não nova verificação pela API. A descoberta da criança ocorrerá **depois da festa**, em data ainda a definir; isso não estabelece que seja depois do fim do mandato. Não transformar a festa inteira em presságio ou reduzir seus participantes a um contraste para o sofrimento de Harry. Um eventual epílogo de RaphaelAmbrosius permanece uma possibilidade, não uma decisão fechada.
+
+Esta proposta reabre a estrutura do livro. Os capítulos existentes são material aproveitável, não uma sequência obrigatória para a reescrita. O autor admite reescrevê-los um por um, inclusive reconsiderar o I; não foi realizada uma reescrita nesta etapa. A localização e a solução do caso ainda não foram escolhidas.
+
+**Elementos propostos pelo autor:** Harry foi à guerra para ajudar o Brasil depois do ataque francês. Após sua semana de combate, encerrada em 21/08, volta ao trabalho de detetive e é chamado a um vilarejo por causa de uma criança desaparecida. Promete à família encontrá-la. Circulam acusações contra franceses, argentinos e brasileiros. A guerra torna-se o contexto ativo da investigação. O final desejado é trágico: a criança é encontrada morta num terreno baldio apenas no desfecho. Harry se entrega à bebida querendo esquecer quem é; o autor quer associar isso à mudança real de nick de Harry_DuBois para RaphaelAmbrosius. A data da mudança não foi informada. A referência a uma nova amnésia é uma proposta ficcional; não fixar diagnóstico nem mecanismo clínico, nem presumir que beber apaga de maneira previsível a identidade.
+
+Na prosa, o autor prefere não anunciar o retorno ao “ecomode”. O registro factual permanece: a mudança de skills aconteceu em 21/08 e sua justificativa real foi contribuir economicamente com o Brasil. A narrativa pode deixar esse vocabulário de interface fora da cena sem transformar a investigação inventada na causa histórica da decisão do jogador.
+
+**Referências declaradas:** A promessa, de Friedrich Dürrenmatt, e França e o Labirinto, do Jovem Nerd. Aproveitar compromisso pessoal, investigação com consequências e percepção limitada. Construir circunstâncias, personagens, pistas e resolução próprias. A criança e a família precisam de vida e relações além da função de provocar sofrimento em Harry.
+
+**Diagnóstico editorial a discutir:** ajudar o país é uma motivação suficiente para partir, mas precisa ganhar expressão particular na cena. Hipótese: Harry sente que seu trabalho de observador deixou de bastar e tenta ajudar diretamente; depois do desgaste, a investigação lhe oferece a possibilidade de ajudar alguém identificável. Isso é interpretação proposta, não lembrança confirmada. Não explicá-la em um discurso na abertura.
+
+**Estrutura a discutir:** encurtar a primeira semana para que a pergunta central não demore um livro a aparecer. Preservar cenas que constroem vínculos, custos e escolhas; condensar deslocamentos e procedimentos que apenas repetem espera. A guerra deve modificar acesso, testemunhos, buscas e consequências, não fornecer um catálogo obrigatório de batalhas.
+
+#### Desfecho: alternativas ainda não sorteadas
+
+O autor quer decidir com um dado. Não houve sorteio. As opções não são mutuamente exclusivas: um militar ou um parente pode morrer antes de ser identificado. Antes de rolar, combinar o que será sorteado e as probabilidades; separar causa/autoria da morte e destino do responsável. Fixar a solução antes de plantar pistas, sem mudá-la para acomodar a investigação.
+
+- Militar francês, argentino ou brasileiro: definir indivíduo ficcional, acesso à vítima, ato e evidências. A nacionalidade não substitui motivo nem constitui prova. Não atribuir o crime a um jogador real.
+- Parente: a proximidade precisa oferecer oportunidade concreta e ter sinais retrospectivamente legíveis. Não sustentar a surpresa apenas na regra de que o suspeito menos óbvio é o culpado.
+- Assassino morto durante a guerra antes da captura: compatível com as opções anteriores. Harry ainda precisa conseguir estabelecer o ocorrido por provas independentes; a morte do responsável não autoriza uma revelação sem investigação.
+- Explosivo de guerra: não há obrigatoriamente um assassino individual. Mina e munição não detonada são hipóteses distintas; nenhuma foi selecionada ou tecnicamente validada. “A guerra matou” é leitura temática, não explicação material suficiente para a cena.
+
+#### Verificações obrigatórias para a hipótese de explosão
+
+Construir primeiro a sequência real do desaparecimento, antes das versões que Harry ouvirá. Definir idade, rotina, último avistamento confiável, motivo concreto do deslocamento e quanto tempo transcorre até o encontro. Evitar justificar tudo com pais negligentes, policiais incapazes, chuva ou caos genérico.
+
+Uma possibilidade a avaliar é um terreno de uso cotidiano antes da ocupação, alterado pelo combate: Harry e moradores conhecem o lugar antigo, mas sua acessibilidade ou configuração mudou. Isso ainda não resolve a ocultação do corpo. Definir a relação espacial entre lugar da morte e lugar do encontro, o que impedia a visualização, quem buscou onde e por que a área só pôde ser examinada corretamente depois. Se o terreno estava acessível e já foi vasculhado de modo competente, a versão precisa mudar.
+
+Responder: por que a criança foi sozinha? Quem sabia ou supunha conhecer o trajeto? Houve explosão percebida e registrada? Que busca local ocorreu, com quais recursos efetivamente disponíveis? O que foi observado e interpretado de outro modo? Por que chamaram Harry e qual tarefa específica ele pode assumir que ainda está pendente? Qual evidência sustenta esperança de sobrevivência sem a narração mentir? O que permite a descoberta final e a identificação? Não presumir uso ou falha de cães farejadores sem estabelecer disponibilidade e condições. Pesquisar os aspectos técnicos escolhidos antes de redigir a solução.
+
+#### Questões de arco ainda abertas
+
+- Quem chama Harry e por que reconhece nele um investigador? A CDR é seu partido político; Harry é um dos conselheiros, não o líder. Construir sua experiência de detetive separadamente da função partidária, sem atribuir autoridade policial ao partido.
+- Qual é a formulação da promessa? Prometer encontrar e passar a agir como se tivesse prometido trazer com vida pode sustentar uma contradição pessoal, mas é sugestão editorial ainda não aprovada.
+- O final trágico encerra o romance único. Ainda decidir se e como o retorno à página vinte e seis participa desse encerramento; não impor ao novo final a interpretação antes planejada para uma trilogia.
+- A perda de identidade será literal na ficção, incerta ou uma tentativa de abandonar o nome? A bebida pode acompanhar a queda, mas a mudança de nick não comprova amnésia real. Manter a descoberta e suas consequências para a família presentes, sem fazer a vítima desaparecer da história assim que cumpre uma função no arco de Harry.
+
+### Ideia anterior de encerramento: a página vinte e seis e a despedida
+
+Ideia registrada em 27/09/2026, quando se planejava uma trilogia. **A divisão em três livros foi abandonada em 30/09.** Preservar este material como possibilidade de ligação entre início e fim, a reconsiderar diante do desfecho policial trágico. Não confundir com a volta ao ecomode que encerra a primeira fase de combate.
 
 Retomar a última página, **página vinte e seis do Fichário do Ódio e Fracasso**, que Harry examina na abertura. Não havia nada de errado com a margem. O defeito que ele procurava era uma maneira de adiar a entrega e, com ela, a despedida. A nova leitura desse gesto conecta o início ao fim sem transformar sua preocupação inicial numa previsão consciente de tudo o que aconteceria depois.
 
@@ -20,11 +71,11 @@ Possível frase de trabalho, **sem compromisso com a redação final**:
 
 > A margem estava certa. Cuno tinha visto de primeira. Eu é que ainda queria ficar mais um pouco.
 
-Escolher a cena concreta e a formulação apenas quando o terceiro livro estiver desenvolvido. Não acrescentar desde já um parágrafo explicativo à abertura: a página precisa conservar sua ambiguidade até o retorno no encerramento.
+Escolher a cena concreta e a formulação apenas quando o arco do romance estiver desenvolvido, se esse retorno ainda couber. Não acrescentar desde já um parágrafo explicativo à abertura: a página precisa conservar sua ambiguidade.
 
 A guerra cresce além do que Harry consegue acompanhar. Sua experiência pode continuar concentrada em tarefas pequenas — segurar uma peça, conferir munição, esperar uma ordem — enquanto o rádio e as pessoas trazem notícias de outras regiões. A dificuldade de Harry não deve impedir o leitor de compreender a ação imediata.
 
-O retorno ao ecomode em **21/08** pode encerrar a primeira parte, correspondente à semana de combate iniciada em **14/08**. Harry reabre empresas que havia fechado na abertura e passa a financiar o esforço brasileiro. O cálculo econômico precisa aparecer: aproximadamente 2.000 moedas por 1 milhão de dano próprio contra 200 por dano mercenário equivalente, segundo seu relato. A volta à mesa abre caminho para recuperação nacional, diplomacia, África e amizades; não significa abandono da guerra nem encerramento obrigatório do livro.
+O retorno ao ecomode em **21/08** pode encerrar a primeira parte, correspondente à semana de combate iniciada em **14/08**. Harry reabre empresas que havia fechado na abertura e passa a financiar o esforço brasileiro. O cálculo econômico precisa aparecer: aproximadamente 2.000 moedas por 1,5 milhão de dano próprio contra 200 por 1 milhão de dano mercenário (valores corrigidos pelo autor em 30/09), segundo seu relato. A volta à mesa abre caminho para recuperação nacional, diplomacia, África e amizades; não significa abandono da guerra nem encerramento obrigatório do livro.
 
 Não reservar um capítulo para cada tema. Manutenção, dinheiro, notícias e relações podem coexistir numa cena. Definir os capítulos pelos acontecimentos, mudanças e consequências que sustentam a leitura.
 

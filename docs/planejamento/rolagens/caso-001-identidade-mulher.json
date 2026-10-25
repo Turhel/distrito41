@@ -1,0 +1,20 @@
+{
+  "data_utc": "2026-10-25T05:51:50.405161+00:00",
+  "regra": "sorteio-equiprovavel-v1",
+  "plano": {
+    "tipo": "sorteio",
+    "id": "caso-001-identidade-mulher",
+    "objetivo": "Definir antes da escrita quem é a mulher encontrada por Augusto. As três opções têm chances iguais e são compatíveis com o espaço de reparos. A mulher não é amante.",
+    "faces": 6,
+    "opcoes": [
+      "Ex-colega de Augusto que organiza encomendas no espaço de reparos",
+      "Responsável pelo espaço de reparos, onde organiza bancadas e materiais",
+      "Irmã de Augusto que participa do espaço de reparos"
+    ]
+  },
+  "dados": [
+    5
+  ],
+  "resultado": "Irmã de Augusto que participa do espaço de reparos",
+  "probabilidade_por_opcao": "1/3"
+}

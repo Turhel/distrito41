@@ -1,0 +1,13 @@
+{
+  "id": "exemplo-testemunha-deslocada",
+  "cena": "EXEMPLO NÃO CANÔNICO: entrevista com uma testemunha localizada pela polícia",
+  "objetivo": "Esclarecer se ela observou a rua antes ou depois da passagem de um transporte",
+  "obstaculo": "A testemunha não tinha relógio; é necessário cruzar referências do seu dia",
+  "categoria": "reconstituicao-temporal",
+  "modificador": 0,
+  "pista_essencial": true,
+  "rota_alternativa": "Confrontar o relato com um registro de transporte já previsto no planejamento, junto à polícia",
+  "sucesso": "A entrevista delimita o intervalo; ainda é preciso conferir o registro independente",
+  "parcial": "Ela delimita apenas parte do intervalo; uma segunda diligência resolve a lacuna",
+  "falha": "O relato não permite precisar o horário. A equipe segue pela fonte independente; a entrevista não deve ser repetida sem informação nova"
+}

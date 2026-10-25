@@ -9,7 +9,7 @@ import webbrowser
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / 'reader'
-CHAPTERS = ROOT / 'main' / 'caso-001'
+CHAPTERS = ROOT / 'main' / 'casos'
 
 
 class ReaderHandler(BaseHTTPRequestHandler):
